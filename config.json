@@ -7,9 +7,8 @@
     "description": "Version premium activée",
     "buttonText": "ACCÉDER",
     "url": "https://www.google.com",
-    
     "admin": {
-        "secretKey": "12345",  // Mot de passe pour accéder au panel admin
+        "secretKey": "12345",
         "users": [
             {
                 "username": "user1",
