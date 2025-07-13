@@ -1,0 +1,10 @@
+{
+    "isActive": true,
+    "username": "admin",
+    "password": "admin123",
+    "expiryDate": "2024-12-31 23:59:59",
+    "title": "APPLICATION PREMIUM",
+    "description": "Version premium avec toutes les fonctionnalités activées",
+    "buttonText": "ACCÉDER AU CONTENU",
+    "url": "https://www.google.com"
+}
