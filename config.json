@@ -4,7 +4,23 @@
     "password": "admin123",
     "expiryDate": "2024-12-31 23:59:59",
     "title": "APPLICATION PREMIUM",
-    "description": "Version premium avec toutes les fonctionnalités activées",
-    "buttonText": "ACCÉDER AU CONTENU",
-    "url": "https://www.google.com"
+    "description": "Version premium activée",
+    "buttonText": "ACCÉDER",
+    "url": "https://www.google.com",
+    
+    "admin": {
+        "secretKey": "12345",  // Mot de passe pour accéder au panel admin
+        "users": [
+            {
+                "username": "user1",
+                "password": "pass1",
+                "expiryDate": "2024-06-30 00:00:00"
+            },
+            {
+                "username": "user2",
+                "password": "pass2",
+                "expiryDate": "2024-07-15 00:00:00"
+            }
+        ]
+    }
 }
